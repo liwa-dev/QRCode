@@ -4,7 +4,7 @@ A simple web page for generating QR code.
 
 ## Table of Contents
 
-- [License](#license)
+- [License](https://github.com/liwa-dev/QRCode/blob/main/license)
 
 ## Description
 
